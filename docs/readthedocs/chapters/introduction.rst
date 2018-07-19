@@ -31,7 +31,7 @@ including:
      LSM9DS1 IMU.
   *  Acquire video data from a Raspberry Pi NoIR camera.
   *  Perform real-time computer vision using camera data.
-  *  Control the speed of brushed DC motor.
+  *  Control the speed of brushed DC/BLDC motor.
 
 The purpose of this documentation is to create a full fledged, clear formal
 guide for using the PiCar project. It will also serve as a place for showcasing
